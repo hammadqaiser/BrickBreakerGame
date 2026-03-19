@@ -5,7 +5,7 @@ A Brick Breaker Game in Java
 Clone BrickBreakerGame:
 
 ```bash
-https://github.com/hammadqaiser/BrickBreakerGame.git
+git clone https://github.com/hammadqaiser/BrickBreakerGame.git
 cd BrickBreakerGame
 ```
 
